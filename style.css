@@ -635,6 +635,12 @@ html {
 }
 /* End of Footer */
 
+@media (max-width: 1700px) {
+  html {
+    font-size: 50%;
+  }
+}
+
 @media (max-width: 1200px) {
   .cards-wrapper {
     flex-direction: column;
